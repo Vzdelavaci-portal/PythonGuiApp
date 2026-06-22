@@ -10,19 +10,7 @@ calculation history, statistics, and multiple visual themes in one interface.
 
 ## Application preview
 
-Place screenshots in [`docs/screenshots`](docs/screenshots/README.md).
-The documentation is prepared for the following file names:
-
-<!-- Remove the beginning and end of this comment after adding the file.
-![Nexus Calc main screen](docs/screenshots/calculator-dark.png)
--->
-
-| Screen | Suggested file |
-|---|---|
-| Main calculator | `calculator-dark.png` |
-| Function graph | `function-graph.png` |
-| Converters | `converters.png` |
-| Neon theme | `calculator-neon.png` |
+Comming Soon 
 
 ## Features
 
