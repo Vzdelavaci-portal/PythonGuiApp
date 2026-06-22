@@ -11,19 +11,7 @@ a několik vizuálních motivů v jednom rozhraní.
 
 ## Náhled aplikace
 
-Screenshoty vlož do složky [`docs/screenshots`](docs/screenshots/README.md).
-Dokumentace už počítá s následujícími názvy:
-
-<!-- Po přidání souboru odstraň začátek a konec tohoto komentáře.
-![Hlavní obrazovka Nexus Calc](docs/screenshots/calculator-dark.png)
--->
-
-| Obrazovka | Doporučený soubor |
-|---|---|
-| Hlavní kalkulačka | `calculator-dark.png` |
-| Graf funkcí | `function-graph.png` |
-| Převody | `converters.png` |
-| Neonový motiv | `calculator-neon.png` |
+V přípravě
 
 ## Funkce
 
